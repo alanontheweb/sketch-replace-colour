@@ -1,0 +1,23 @@
+{
+  "author" : "Original - Lewis Howles / Modified - Alan Roy",
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "handler" : "onRun",
+      "shortcut" : "ctrl shift h",
+      "name" : "Replace Hue",
+      "identifier" : "replacehue"
+    }
+  ],
+  "menu" : {
+    "items" : [
+      "replacehue"
+    ],
+    "title" : "Replace Hue"
+  },
+  "identifier" : "replace.hue",
+  "version" : "2.0.1",
+  "description" : "Replace all hues matching the selected layer's color with the specified hex's hue value",
+  "authorEmail" : "",
+  "name" : "Sketch Replace Hue"
+}
