@@ -10,4 +10,4 @@ The main purpose of this plugin is to allow for very fast theme swapping across 
 
 ---
 
-All thanks go to B. Ayers for helping develop additional functionality.
+All thanks go to Lewis Howles for the original plugin, and B. Ayers for helping develop additional functionality.
