@@ -1,6 +1,6 @@
 # Sketch Replace Hue
 
-![Sketch Replace Hue](replacehue.gif?raw=true)
+![Sketch Replace Hue](replacehue-new.gif?raw=true)
 
 Sketch Replace Hue is forked from Sketch Replace color, and can be used to Find and Replace the same Hues found on the Fill, Border and Text color properties of your layers. 
 
