@@ -258,7 +258,7 @@ var onRun = function(context) {
 	}
 
 	function isSameHue(color1, color2) {
-		var threshold = .001;
+		var threshold = .005;
 		var diff = color1.hue() - color2.hue();
 		log("isSameHue diff = " + diff);
 
